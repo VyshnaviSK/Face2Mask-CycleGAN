@@ -13,4 +13,8 @@ Image 2: Given testing dataset images with masks, obtained images without masks
 
 The idea of base CycleGAN architechture and code for the same has been taken from https://arxiv.org/pdf/1703.10593.pdf and https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix respectively. 
 
+The training datasets are to be placed in folder dataset/trainA and dataset/trainB respectively. Same to be followed for testing dataset.
+
+To run the program, open the CycleGAN_Face_Mask.iypnb file in Google Colab, connect to GPU and run the cells. 
+
 
