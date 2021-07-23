@@ -57,4 +57,4 @@ __Directory: utils- contain miscellaneous helper functions__
 
 __Directory: Scripts: contain all bash scripts of the same__
 
-Dataset taken from: https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset 
+Dataset taken from: https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset , https://www.kaggle.com/niharika41298/withwithout-mask?select=maskdata  , https://www.kaggle.com/jessicali9530/celeba-dataset 
